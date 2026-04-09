@@ -77,7 +77,7 @@ git-branch-project/
 
 ## Author
 
-Your Name
+Dada Oluwaferanmi E
 
 GitHub: https://github.com/feranzeey
 
